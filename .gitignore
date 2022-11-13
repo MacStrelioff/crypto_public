@@ -2,3 +2,9 @@
 
 # Ignore pickles
 *.pkl
+
+# ignore checkpoints
+*checkpoint.ipynb
+
+# ignore DS_stores
+*.DS_Store
