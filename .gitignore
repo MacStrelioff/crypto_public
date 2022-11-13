@@ -5,6 +5,8 @@
 
 # ignore checkpoints
 *checkpoint.ipynb
+*.ipynb_checkpoints*
+*checkpoint*
 
 # ignore DS_stores
 *.DS_Store
