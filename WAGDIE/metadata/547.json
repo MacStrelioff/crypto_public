@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Apostle Tunic"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Serpentine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wormlord Acolyte"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hermit's Claim"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Her Silence"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/547.png",
+  "name": "I Am Already Dead #547"
+}

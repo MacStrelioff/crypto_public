@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Verite Protection"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Godlings Disk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Serpentine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Naive Stranger"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cursed Essence"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5941.png",
+  "name": "I Am Already Dead #5941"
+}

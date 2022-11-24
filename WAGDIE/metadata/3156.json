@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Turlo Tunic"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brimstone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wormkin Elite"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Naive Pilgrim's Cut"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Her Glory"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3156.png",
+  "name": "I Am Already Dead #3156"
+}

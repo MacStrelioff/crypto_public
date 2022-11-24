@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Detritus Mail"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Favor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Her Glory"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pilgrim of the Lakes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zaban Rough Crop"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Smiling Witness to All"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3924.png",
+  "name": "I Am Already Dead #3924"
+}

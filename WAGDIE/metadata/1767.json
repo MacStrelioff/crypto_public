@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Valorite Amateur Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Pilgrim's Weak Blade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Charter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zolian Worm"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lotharian Hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Her Glory"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/1767.png",
+  "name": "I Am Already Dead #1767"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Peasant Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Favor in Light"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Her Glory"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Saltus"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Swamp Tassels"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Sibor's Brace"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/6078.png",
+  "name": "I Am Already Dead #6078"
+}

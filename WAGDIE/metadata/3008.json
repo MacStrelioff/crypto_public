@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Dark One's Call"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Serpentine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wormlord Acolyte"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pilgrim's Touch"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "The Stranger's Mark"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3008.png",
+  "name": "I Am Already Dead #3008"
+}

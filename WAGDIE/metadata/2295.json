@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Verite Supports"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Uirian Quill"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yearn"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hardened Merchant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zimian Earth Strands"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Her Goddess of Vision"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/2295.png",
+  "name": "I Am Already Dead #2295"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Verite Supports"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yearn"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Galy Veetus the Aged"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Luta's Firey Bangs"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Noxium Death Cage"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/2721.png",
+  "name": "I Am Already Dead #2721"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Her Imprint"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Break"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Worm Devotee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aqi Knot"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "The Stranger's Mark"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/4459.png",
+  "name": "I Am Already Dead #4459"
+}

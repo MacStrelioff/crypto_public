@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Pilgrim's Chain"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yearn"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Wormlord Acolyte"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zaban Crop"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/6405.png",
+  "name": "I Am Already Dead #6405"
+}

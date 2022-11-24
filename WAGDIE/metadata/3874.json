@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Her Devotion"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Favor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Slaughter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Young Traveler"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Feeble Spikes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Thorgod's Symbol"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3874.png",
+  "name": "I Am Already Dead #3874"
+}

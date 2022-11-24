@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Blessing of the Worm"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Eutus Hammer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Silt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Worm Devotee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "More Envious Locks"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Yogg's Folly"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/2185.png",
+  "name": "I Am Already Dead #2185"
+}

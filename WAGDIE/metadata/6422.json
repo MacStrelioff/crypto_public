@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Death Stroker Doublet"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Silt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stranger"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zimian Earth Strands"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Removal's Kin"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/6422.png",
+  "name": "I Am Already Dead #6422"
+}

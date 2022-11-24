@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Noxian Jester Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Godlings Disk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Altered"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pilgrim of the Depth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Stranger's Cry"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/2279.png",
+  "name": "I Am Already Dead #2279"
+}

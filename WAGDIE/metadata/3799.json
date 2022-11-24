@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Garolin Tunic"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Young Stranger"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Envious Locks"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Yogg's Folly"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3799.png",
+  "name": "I Am Already Dead #3799"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Detritus Mail"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Godlings Disk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Her Glory"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Garolin Champion"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Envious Locks"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Death Smelt Hat"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3734.png",
+  "name": "I Am Already Dead #3734"
+}

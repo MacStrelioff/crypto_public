@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Noxian Jester Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Pilgrim's Weak Blade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hole Protector"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3115.png",
+  "name": "I Am Already Dead #3115"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Noxian Jester Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Serpentine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Young Stranger"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Naive Pilgrim's Cut"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "He Who Does Not See"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5820.png",
+  "name": "I Am Already Dead #5820"
+}

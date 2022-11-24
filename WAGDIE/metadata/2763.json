@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Holy Diamond of Her"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Silt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Astorian Adventurer"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Parody of the Fallen King"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/2763.png",
+  "name": "I Am Already Dead #2763"
+}

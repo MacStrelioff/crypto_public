@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Blessing of the Worm"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Zerd"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hardened Merchant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Gorlong Mane"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Wormlord Guard"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3603.png",
+  "name": "I Am Already Dead #3603"
+}

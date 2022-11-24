@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Pilgrim's Plain Chain"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Eutus Hammer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Slaughter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Worm Devotee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wisened Zealot"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Her Blessing"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5483.png",
+  "name": "I Am Already Dead #5483"
+}

@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Champion of Logun"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brimstone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pilgrim of the Lakes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Aqi Knot"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/1107.png",
+  "name": "I Am Already Dead #1107"
+}

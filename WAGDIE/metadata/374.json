@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Her Pathetic Waste"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brimstone"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Astorian Adventurer"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Naive Pilgrim's Cut"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "The Stranger's Mark"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/374.png",
+  "name": "I Am Already Dead #374"
+}

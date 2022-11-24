@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Healer's Dress"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Eutus Hammer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Saltus"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Detritus Helm"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/2066.png",
+  "name": "I Am Already Dead #2066"
+}

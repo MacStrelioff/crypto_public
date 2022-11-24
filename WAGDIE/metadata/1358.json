@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Punished Shirt"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Pilgrim's Weak Blade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Break"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Worm Devotee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zimian Earth Strands"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "The Stranger's Mark"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/1358.png",
+  "name": "I Am Already Dead #1358"
+}

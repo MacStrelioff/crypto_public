@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Death Stroker Doublet"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Eutus Hammer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yearn"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Foolish Jester"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Guard's Crop"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Noxium Death Cage"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/1217.png",
+  "name": "I Am Already Dead #1217"
+}

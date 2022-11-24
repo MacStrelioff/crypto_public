@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Death Stroker Doublet"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Altered"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Garolin Champion"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Luta's Bangs"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Wormlord Guard"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3033.png",
+  "name": "I Am Already Dead #3033"
+}

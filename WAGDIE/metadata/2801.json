@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Her Devotion"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Silt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Naive Stranger"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Piat's Destruction"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Goldbeard's Eyes"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/2801.png",
+  "name": "I Am Already Dead #2801"
+}

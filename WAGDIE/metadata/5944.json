@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Noxian Jester Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Break"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stranger"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hermit's Claim"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Wormlord Visage"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5944.png",
+  "name": "I Am Already Dead #5944"
+}

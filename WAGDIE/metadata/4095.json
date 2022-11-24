@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Strange Cloth Cloak"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Uirian Bow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Serpentine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Astorian Adventurer"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Luta's Firey Bangs"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Darkblade's Beak"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/4095.png",
+  "name": "I Am Already Dead #4095"
+}

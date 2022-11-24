@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Peasant Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Eutus Hammer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pilgrim of the Depth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zol's Elegance"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Her Glory"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/311.png",
+  "name": "I Am Already Dead #311"
+}

@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Spines of The Worm"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Godlings Disk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Charter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Old Pilgrim"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/6153.png",
+  "name": "I Am Already Dead #6153"
+}

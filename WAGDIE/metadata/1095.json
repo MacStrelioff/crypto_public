@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Strange Cloth Cloak"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pilgrim of the Depth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Discipline Helm Hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "An Ancient Device"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/1095.png",
+  "name": "I Am Already Dead #1095"
+}

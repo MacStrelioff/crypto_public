@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Punished Shirt"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Favor"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Zerd"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pilgrim of the Lakes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Noxian Tint"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Noxium Death Cage"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3296.png",
+  "name": "I Am Already Dead #3296"
+}

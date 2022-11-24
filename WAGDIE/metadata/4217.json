@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Her Zealot's Gear"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Slaughter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zolian Worm"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Guard's Crop"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/4217.png",
+  "name": "I Am Already Dead #4217"
+}

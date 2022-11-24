@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Worm Caller"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Break"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Nameless Adventurer"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Naive Blonde Pilgrim's Cut"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Thorgod's Symbol"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/4987.png",
+  "name": "I Am Already Dead #4987"
+}

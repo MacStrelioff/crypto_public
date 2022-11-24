@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Verite Encumbrance"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Pilgrim's Weak Blade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hardened Merchant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Lotharian Hair"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5233.png",
+  "name": "I Am Already Dead #5233"
+}

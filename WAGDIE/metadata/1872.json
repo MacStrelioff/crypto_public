@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Champion of Logun"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Pilgrim's Weak Blade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Charter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Young Stranger"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Her Page"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Her Blessing"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/1872.png",
+  "name": "I Am Already Dead #1872"
+}

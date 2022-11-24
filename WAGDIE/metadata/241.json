@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Worm's Weight"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Pilgrim's Weak Blade"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Silt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hardened Merchant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Zimian Strands"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Yogg's Folly"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/241.png",
+  "name": "I Am Already Dead #241"
+}

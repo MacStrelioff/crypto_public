@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Young Knight of Logun"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Godlings Disk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Break"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hardened Merchant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Noble's Crop"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Fool's Crown"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/1270.png",
+  "name": "I Am Already Dead #1270"
+}

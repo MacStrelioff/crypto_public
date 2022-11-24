@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Logun's Decree"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Charter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Logun Disciple"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Piat's Destruction"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Darkblade's Beak"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/6379.png",
+  "name": "I Am Already Dead #6379"
+}

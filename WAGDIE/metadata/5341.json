@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Blessing of the Worm"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Eutus Hammer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Astorian Adventurer"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vagabond's Darkness"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "The Stranger's Mark"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5341.png",
+  "name": "I Am Already Dead #5341"
+}

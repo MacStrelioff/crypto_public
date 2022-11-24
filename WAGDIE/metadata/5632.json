@@ -1,0 +1,27 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Death Dealer's Choice"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Her Favor in Light"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Slaughter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pilgrim of the Lakes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5632.png",
+  "name": "I Am Already Dead #5632"
+}

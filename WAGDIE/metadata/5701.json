@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Swamp Traveler Cloak"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Uirian Quill"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Serpentine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Simple Vagabond"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vagabond's Darkness"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5701.png",
+  "name": "I Am Already Dead #5701"
+}

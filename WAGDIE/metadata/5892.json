@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Young Knight of Logun"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Uirian Quill"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Break"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Seeker of Piat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Feeble Spikes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/5892.png",
+  "name": "I Am Already Dead #5892"
+}

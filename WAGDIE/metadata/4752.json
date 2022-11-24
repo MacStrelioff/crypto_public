@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Her Imprint"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Uirian Quill"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Silt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Journeyman"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Noble's Crop"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "An Ancient Device"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/4752.png",
+  "name": "I Am Already Dead #4752"
+}

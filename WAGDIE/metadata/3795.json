@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Valorite Amateur Garb"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Journeyman"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hermit Set"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Fool's Crown"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/3795.png",
+  "name": "I Am Already Dead #3795"
+}

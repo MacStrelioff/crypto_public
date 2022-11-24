@@ -1,0 +1,31 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Armor",
+      "value": "Death Stroker Doublet"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Lone Knight Arms"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Old Pilgrim"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Noxian Tint"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Royal Fool's Curse"
+    }
+  ],
+  "description": "I am already dead, we are all going to die.",
+  "image": "ipfs://QmQJ5Cqi6Ens2CE3cmP6qgt9kDVGaaSFwcCNA17SfXgiL3/4345.png",
+  "name": "I Am Already Dead #4345"
+}
