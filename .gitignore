@@ -11,4 +11,5 @@
 # ignore DS_stores
 *.DS_Store
 
+# ignore large file
 ./WAGDIE/block_timestamps.csv
