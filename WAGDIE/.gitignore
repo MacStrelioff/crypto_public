@@ -1,0 +1,15 @@
+.env
+
+# Ignore pickles
+*.pkl
+
+# ignore checkpoints
+*checkpoint.ipynb
+*.ipynb_checkpoints*
+*checkpoint*
+
+# ignore DS_stores
+*.DS_Store
+
+# ignore large file
+block_timestamps.csv
