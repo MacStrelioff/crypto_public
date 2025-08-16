@@ -7,6 +7,12 @@ import type { ReactNode } from 'react'
 export function Providers(props: { children: ReactNode }) {
   const apiKey = process.env.NEXT_PUBLIC_ONCHAINKIT_API_KEY
 
+  // Debug: Log the API key status (only in development)
+  if (process.env.NODE_ENV === 'development') {
+    console.log('API Key present:', !!apiKey)
+    console.log('API Key length:', apiKey?.length || 0)
+  }
+
   // If no API key is provided, show a helpful message
   if (!apiKey) {
     return (
@@ -21,6 +27,9 @@ export function Providers(props: { children: ReactNode }) {
           <div className="bg-gray-100 p-4 rounded-lg text-sm text-gray-700 font-mono">
             NEXT_PUBLIC_ONCHAINKIT_API_KEY=your_api_key_here
           </div>
+          <p className="text-sm text-gray-500 mt-4">
+            Current environment: {process.env.NODE_ENV}
+          </p>
         </div>
       </div>
     )
