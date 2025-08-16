@@ -8,7 +8,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next build && next export",
     "deploy:ipfs": "node scripts/deploy-ipfs.js"
   },
   "dependencies": {
@@ -33,5 +32,8 @@
   },
   "keywords": ["ens", "web3", "ethereum", "decentralized"],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
