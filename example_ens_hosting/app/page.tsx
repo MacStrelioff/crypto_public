@@ -1,6 +1,6 @@
-'use client'
-
 import WalletConnect from '../components/ConnectButton'
+
+export const dynamic = 'force-dynamic'
 
 export default function Home() {
   return (
@@ -13,6 +13,9 @@ export default function Home() {
           Connect your wallet to get started
         </p>
         <WalletConnect />
+        <p className="text-xs text-gray-400 text-center mt-4">
+          Server time: {new Date().toISOString()}
+        </p>
       </div>
     </main>
   )
