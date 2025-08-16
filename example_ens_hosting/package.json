@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build-for-vercel.js",
     "start": "next start",
     "lint": "next lint",
     "deploy:ipfs": "node scripts/deploy-ipfs.js"
