@@ -31,3 +31,22 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Custom styles for wallet components */
+.wallet-container {
+  color: #374151; /* text-gray-700 */
+}
+
+.wallet-container button {
+  color: #374151;
+}
+
+/* Ensure wallet dropdown text is visible */
+[data-radix-popper-content-wrapper] {
+  color: #374151 !important;
+}
+
+/* Fix any white text issues */
+.onchainkit-wallet * {
+  color: inherit;
+}

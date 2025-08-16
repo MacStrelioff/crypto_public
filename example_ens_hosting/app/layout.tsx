@@ -1,9 +1,10 @@
 import type { Metadata } from 'next'
 import './globals.css'
+import { Providers } from './providers'
 
 export const metadata: Metadata = {
-  title: 'ENS Web App',
-  description: 'A decentralized web application hosted on ENS',
+  title: 'Lending dApp',
+  description: 'A simple lending dApp on Base',
 }
 
 export default function RootLayout({
@@ -13,7 +14,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="font-sans">{children}</body>
+      <body className="font-sans">
+        <Providers>
+          {children}
+        </Providers>
+      </body>
     </html>
   )
 }
