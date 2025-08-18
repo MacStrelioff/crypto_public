@@ -32,6 +32,45 @@ body {
   }
 }
 
+/* Custom prose styles to fix white text issues */
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  color: #111827 !important; /* text-gray-900 */
+}
+
+.prose p {
+  color: #374151 !important; /* text-gray-700 */
+}
+
+.prose ul,
+.prose ol {
+  color: #374151 !important; /* text-gray-700 */
+}
+
+.prose li {
+  color: #374151 !important; /* text-gray-700 */
+}
+
+.prose strong {
+  color: #111827 !important; /* text-gray-900 */
+}
+
+.prose code {
+  color: #374151 !important; /* text-gray-700 */
+}
+
+.prose pre {
+  color: #374151 !important; /* text-gray-700 */
+}
+
+.prose pre code {
+  color: #374151 !important; /* text-gray-700 */
+}
+
 /* Custom styles for wallet components */
 .wallet-container {
   color: #374151; /* text-gray-700 */
