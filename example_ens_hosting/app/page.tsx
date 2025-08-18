@@ -1,4 +1,5 @@
 import WalletConnect from '../components/ConnectButton'
+import TransactionButtonComponent from '../components/TransactionButton'
 
 export const dynamic = 'force-dynamic'
 
@@ -84,6 +85,7 @@ export default function Home() {
             Connect your wallet to start using Credit Line dApp
           </p>
           <WalletConnect />
+          <TransactionButtonComponent />
           <p className="text-xs text-gray-400 text-center mt-4">
             Server time: {new Date().toISOString()}
           </p>
