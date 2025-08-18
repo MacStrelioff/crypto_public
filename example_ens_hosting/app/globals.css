@@ -13,7 +13,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground-rgb: 255, 255, 255;
+    --foreground-rgb: 0, 0, 0;
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
   }
@@ -74,21 +74,46 @@ body {
   color: #374151 !important; /* text-gray-700 */
 }
 
-/* Custom styles for wallet components */
-.wallet-container {
-  color: #374151; /* text-gray-700 */
+
+
+/* Style OnchainKit TransactionButton ONLY within our transaction widget scope */
+.tx-scope .onchainkit-transaction button,
+.tx-scope .onchainkit-transaction [role="button"],
+.tx-scope .onchainkit-transaction button[type="submit"],
+.tx-scope .onchainkit-transaction div[role="button"],
+.tx-scope .onchainkit-transaction *[role="button"] {
+  background-color: #16a34a !important; /* bg-green-600 */
+  color: white !important;
+  padding: 0.75rem 1.5rem !important;
+  border-radius: 0.5rem !important;
+  font-weight: 500 !important;
+  width: 100% !important;
+  transition: background-color 0.2s !important;
+  border: none !important;
+  cursor: pointer !important;
+  display: block !important;
 }
 
-.wallet-container button {
-  color: #374151;
+.tx-scope .onchainkit-transaction button:hover,
+.tx-scope .onchainkit-transaction [role="button"]:hover,
+.tx-scope .onchainkit-transaction button[type="submit"]:hover,
+.tx-scope .onchainkit-transaction div[role="button"]:hover,
+.tx-scope .onchainkit-transaction *[role="button"]:hover {
+  background-color: #15803d !important; /* bg-green-700 */
 }
 
-/* Ensure wallet dropdown text is visible */
-[data-radix-popper-content-wrapper] {
-  color: #374151 !important;
-}
-
-/* Fix any white text issues */
-.onchainkit-wallet * {
-  color: inherit;
+/* More aggressive targeting for OnchainKit buttons, but still scoped */
+.tx-scope [data-testid*="transaction"],
+.tx-scope [data-testid*="button"],
+.tx-scope button[data-testid],
+.tx-scope div[data-testid] {
+  background-color: #16a34a !important;
+  color: white !important;
+  padding: 0.75rem 1.5rem !important;
+  border-radius: 0.5rem !important;
+  font-weight: 500 !important;
+  width: 100% !important;
+  transition: background-color 0.2s !important;
+  border: none !important;
+  cursor: pointer !important;
 }

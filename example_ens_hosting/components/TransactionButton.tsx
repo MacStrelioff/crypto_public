@@ -1,6 +1,6 @@
 'use client'
 
-import { useCallback } from 'react'
+import { useCallback, useState } from 'react'
 import {
   Transaction,
   TransactionButton,
@@ -35,12 +35,19 @@ const calls = [
 const BASE_MAINNET_CHAIN_ID = 8453
 
 export default function TransactionButtonComponent() {
+  const [isLoading, setIsLoading] = useState(false)
+  
   const handleOnStatus = useCallback((status: LifecycleStatus) => {
     console.log('Transaction status:', status)
+    if (status.statusName === 'success' || status.statusName === 'error') {
+      setIsLoading(false)
+    }
   }, [])
 
   return (
-    <div className="mt-4">
+    <div className="mt-4 tx-scope">
+      <h3 className="text-lg font-semibold text-gray-900 mb-2">Transact</h3>
+      
       <Transaction
         chainId={BASE_MAINNET_CHAIN_ID}
         calls={calls}
