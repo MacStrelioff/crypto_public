@@ -1,5 +1,7 @@
 import WalletConnect from '../components/ConnectButton'
 import TransactionButtonComponent from '../components/TransactionButton'
+import CreateCreditLine from '../components/CreateCreditLine'
+import ManageCreditLine from '../components/ManageCreditLine'
 
 export const dynamic = 'force-dynamic'
 
@@ -75,20 +77,33 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Connect Wallet Section */}
+      {/* Credit Line Creation Section */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">
-        <div className="bg-white p-8 rounded-xl shadow-lg border border-gray-200 max-w-md mx-auto">
-          <h2 className="text-2xl font-bold text-center mb-4 text-gray-800">
-            Get Started
-          </h2>
-          <p className="text-gray-600 text-center mb-6">
-            Connect your wallet to start using Credit Line dApp
-          </p>
-          <WalletConnect />
-          <TransactionButtonComponent />
-          <p className="text-xs text-gray-400 text-center mt-4">
-            Server time: {new Date().toISOString()}
-          </p>
+        <div className="grid md:grid-cols-3 gap-8">
+          {/* Connect Wallet Section */}
+          <div className="bg-white p-8 rounded-xl shadow-lg border border-gray-200">
+            <h2 className="text-2xl font-bold text-center mb-4 text-gray-800">
+              Get Started
+            </h2>
+            <p className="text-gray-600 text-center mb-6">
+              Connect your wallet to start using Credit Line dApp
+            </p>
+            <WalletConnect />
+            <TransactionButtonComponent />
+            <p className="text-xs text-gray-400 text-center mt-4">
+              Server time: {new Date().toISOString()}
+            </p>
+          </div>
+
+          {/* Create Credit Line Section */}
+          <div>
+            <CreateCreditLine />
+          </div>
+
+          {/* Manage Credit Line Section */}
+          <div>
+            <ManageCreditLine />
+          </div>
         </div>
       </div>
     </main>

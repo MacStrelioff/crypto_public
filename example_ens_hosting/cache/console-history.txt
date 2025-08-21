@@ -1,0 +1,2 @@
+npx hardhat run scripts/test-interest-validation.ts --network baseSepolia
+npx hardhat run scripts/investigate-contracts.ts --network hardhat
